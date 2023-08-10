@@ -22,11 +22,22 @@ Victor - Artista
 
 ## **Descripción del proyecto:**
 
+Sistema de balas, primera versión estática con disparo circular:
+![image](https://github.com/Anddros/Lilliths-Dark-Incident/assets/112099506/0d83527c-adb8-430e-8013-2ee9dbe55317)
+
+
+Primeras pruebas de la batalla de jefe:
+![image](https://github.com/Anddros/Lilliths-Dark-Incident/assets/112099506/3aa5a68c-f92c-4541-84d9-0117e5727398)
+
+
 
 
 ## **Conclusión:** 
 
 Andros: 
+
 Sebastián: 
+
 Carlos: 
+
 Victor: 
