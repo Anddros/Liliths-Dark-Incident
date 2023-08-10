@@ -4,14 +4,29 @@
 
 ***Integrantes***
 
-Calles Cedeño Andros Gael- Manager
+Calles Cedeño Andros Gael - Manager
 
-Buendía López Sebastian- Coder
+Buendía López Sebastian - Coder
 
-Vences Santillán Carlos Eduardo- Musico
+Vences Santillán Carlos Eduardo - Músico
 
-Victor- 
+Victor - Artista
 
 ***Semestre:*** 2023-2
 
 ***Torre de niveles:*** 1
+
+## **Introducción:**
+
+
+
+## **Descripción del proyecto:**
+
+
+
+## **Conclusión:** 
+
+Andros: 
+Sebastián: 
+Carlos: 
+Victor: 
