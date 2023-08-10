@@ -17,7 +17,8 @@ Victor - Artista
 ***Torre de niveles:*** 1
 
 ## **Introducción:**
-
+El proyecto consistio en la creacion y desarrollo de un juego 2.5D de genero Bullet Hell en Unity desde 0.
+Lo que se espera llegar a conseguir es poder trabajar en equipo para poder sacar adelante el proyecto y que este tenga minimo un nivel
 
 
 ## **Descripción del proyecto:**
@@ -39,10 +40,12 @@ Nivel montado con batalla y controles funcionales:
 
 ## **Conclusión:** 
 
-Andros: 
+*Andros:* Como manager siento que tuve uno de los trabajos mas faciles en cierto sentido, ya que solo tenia que dirigir a mi equipo y darles un trabajo 
+que hacer. Aun asi debo mencionar que, aunque el inicio fue facil con el tiempo poder mantener al equipo organizado fue bastante difcil, pero aun con esos obstaculos
+pude aprender a liderar a mi equipo y poder saber que es lo que necesitaba cada uno de ellos.
 
-Sebastián: 
+*Sebastián:* 
 
-Carlos: 
+*Carlos:* 
 
-Victor: 
+*Victor:*
