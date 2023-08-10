@@ -46,6 +46,8 @@ pude aprender a liderar a mi equipo y poder saber que es lo que necesitaba cada 
 
 *Sebastián:* 
 
-*Carlos:* 
+*Carlos:* Como conclusión, puedo decir que este primer proyecto dentro de la asociación fue exitoso, ya que cada uno de los integrantes se comprometieron a hacer su parte y poco
+a poco fuimos armando todos los elementos del juego. Mi rol como músico fue un poco complicado, ya que nunca había generado sonidos para un juego antes, pero gracias a el conocimiento
+de mis compañeros, pude comenzar a experimentar con el programa hasta tener mi parte lista.
 
 *Victor:*
