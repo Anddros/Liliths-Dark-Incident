@@ -38,23 +38,31 @@ Menú principal en su primera versión, antes del cambio de colores:
 Nivel montado con batalla y controles funcionales:
 ![image](https://github.com/Anddros/Lilliths-Dark-Incident/assets/112099506/c18effaf-5357-4a77-9e9c-6d3dbc8aea43)
 
+
+
 Música:
 
 Lo primero que hice fue organizarme, creando carpetas para la música y los sonidos.
+
 ![image](https://github.com/Anddros/Lilliths-Dark-Incident/assets/90806792/325a9057-d15b-4ec0-950b-3f8feac5d114)
 
 Con ayuda de FL studio, empecé a experimentar con las bibliotecas de sonidos que tenía por defecto.
+
 ![image](https://github.com/Anddros/Lilliths-Dark-Incident/assets/90806792/44142d81-5496-443d-9f90-e148596635ed)
 
 Para los efectos, comencé a probar distorciones y sintetizadores. Hablando con el equipo, analizamos los contextos para
 generar sonidos acordes. 
+
 ![image](https://github.com/Anddros/Lilliths-Dark-Incident/assets/90806792/79e27490-44e9-4dcf-a00e-c8bd89597146)
 
 Después de comprender el funcionamiento del programa, empecé a crear composiciones pequeñas para los soundtracks.
+
 ![image](https://github.com/Anddros/Lilliths-Dark-Incident/assets/90806792/31871b4f-54ea-407d-a8dd-b1eda7a5cc5b)
 
 Finalmente exportamos las canciones y sonidos como mp3 y ogg para el coder. 
-![image](https://github.com/Anddros/Lilliths-Dark-Incident/assets/90806792/23fcdfad-3fef-4d47-b5c0-56fcdec9657a)
+
+![image](https://github.com/Anddros/Lilliths-Dark-Incident/assets/90806792/4133c0c5-45cc-4aa7-a5e0-46fdc4c55165)
+
 
 
 ## **Conclusión:** 
