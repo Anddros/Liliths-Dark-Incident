@@ -42,24 +42,24 @@ Nivel montado con batalla y controles funcionales:
 
 Música:
 
-Lo primero que hice fue organizarme, creando carpetas para la música y los sonidos.
+Lo primero que hice fue organizarme, creando carpetas para la música y los sonidos:
 
 ![image](https://github.com/Anddros/Lilliths-Dark-Incident/assets/90806792/325a9057-d15b-4ec0-950b-3f8feac5d114)
 
-Con ayuda de FL studio, empecé a experimentar con las bibliotecas de sonidos que tenía por defecto.
+Con ayuda de FL studio, empecé a experimentar con las bibliotecas de sonidos que tenía por defecto:
 
 ![image](https://github.com/Anddros/Lilliths-Dark-Incident/assets/90806792/44142d81-5496-443d-9f90-e148596635ed)
 
 Para los efectos, comencé a probar distorciones y sintetizadores. Hablando con el equipo, analizamos los contextos para
-generar sonidos acordes. 
+generar sonidos acordes:
 
 ![image](https://github.com/Anddros/Lilliths-Dark-Incident/assets/90806792/79e27490-44e9-4dcf-a00e-c8bd89597146)
 
-Después de comprender el funcionamiento del programa, empecé a crear composiciones pequeñas para los soundtracks.
+Después de comprender el funcionamiento del programa, empecé a crear composiciones pequeñas para los soundtracks:
 
 ![image](https://github.com/Anddros/Lilliths-Dark-Incident/assets/90806792/31871b4f-54ea-407d-a8dd-b1eda7a5cc5b)
 
-Finalmente exportamos las canciones y sonidos como mp3 y ogg para el coder. 
+Finalmente exportamos las canciones y sonidos como mp3 y ogg para el coder:
 
 ![image](https://github.com/Anddros/Lilliths-Dark-Incident/assets/90806792/4133c0c5-45cc-4aa7-a5e0-46fdc4c55165)
 
@@ -71,7 +71,8 @@ Finalmente exportamos las canciones y sonidos como mp3 y ogg para el coder.
 que hacer. Aun asi debo mencionar que, aunque el inicio fue facil con el tiempo poder mantener al equipo organizado fue bastante difcil, pero aun con esos obstaculos
 pude aprender a liderar a mi equipo y poder saber que es lo que necesitaba cada uno de ellos.
 
-*Sebastián:* 
+*Sebastián:* Al ser coder, el desarrollo de este primer proyecto fue un gran reto para mi. El tener que aprender nuevas técnicas y conceptos para programar lo necesario me ayudó a mejorar bastante.
+Aprendí también a trabajar en equipo, puesto que era de las cosas que más me costaban; el mayor reto fue participar en un proyecto que no dependía enteramente de mi.
 
 *Carlos:* Como conclusión, puedo decir que este primer proyecto dentro de la asociación fue exitoso, ya que cada uno de los integrantes se comprometieron a hacer su parte y poco
 a poco fuimos armando todos los elementos del juego. Mi rol como músico fue un poco complicado, ya que nunca había generado sonidos para un juego antes, pero gracias a el conocimiento
