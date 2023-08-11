@@ -1,6 +1,6 @@
 # Lillith's Dark Incident 🪄
 
-**Equipo**:7 
+**Equipo**: 7 
 
 ***Integrantes***
 
@@ -10,7 +10,7 @@ Buendía López Sebastian - Coder
 
 Vences Santillán Carlos Eduardo - Músico
 
-Victor Torres Martínez Victor Manuel - Artista
+Torres Martínez Victor Manuel - Artista
 
 ***Semestre:*** 2023-2
 
@@ -18,7 +18,7 @@ Victor Torres Martínez Victor Manuel - Artista
 
 ## **Introducción:**
 El proyecto consistio en la creacion y desarrollo de un juego 2.5D de genero Bullet Hell en Unity desde 0.
-Lo que se espera llegar a conseguir es poder trabajar en equipo para poder sacar adelante el proyecto y que este tenga minimo un nivel
+Lo que se espera llegar a conseguir es poder trabajar en equipo para poder sacar adelante el proyecto y que este tenga minimo un nivel.
 
 
 ## **Descripción del proyecto:**
