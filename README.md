@@ -10,7 +10,7 @@ Buendía López Sebastian - Coder
 
 Vences Santillán Carlos Eduardo - Músico
 
-Victor - Artista
+Victor Torres Martínez Victor Manuel - Artista
 
 ***Semestre:*** 2023-2
 
@@ -63,6 +63,15 @@ Finalmente exportamos las canciones y sonidos como mp3 y ogg para el coder:
 
 ![image](https://github.com/Anddros/Lilliths-Dark-Incident/assets/90806792/4133c0c5-45cc-4aa7-a5e0-46fdc4c55165)
 
+Primeros bocetos de personajes:
+![a](https://github.com/Anddros/Lilliths-Dark-Incident/assets/141441832/272e5765-5553-48f8-98ea-594df5182475)
+
+Idea de los escenarios:
+![IMG_20230809_233226](https://github.com/Anddros/Lilliths-Dark-Incident/assets/141441832/9e749c47-e1c2-4c87-a413-c4521c463ef0)
+
+Creación en pixel art:
+![imagen](https://github.com/Anddros/Lilliths-Dark-Incident/assets/141441832/6ace74f5-ba99-449b-8f25-14b35a989f15)
+![imagen](https://github.com/Anddros/Lilliths-Dark-Incident/assets/141441832/f3d02f90-a1b2-42f8-bc10-1b15a3efd054)
 
 
 ## **Conclusión:** 
@@ -78,4 +87,5 @@ Aprendí también a trabajar en equipo, puesto que era de las cosas que más me 
 a poco fuimos armando todos los elementos del juego. Mi rol como músico fue un poco complicado, ya que nunca había generado sonidos para un juego antes, pero gracias a el conocimiento
 de mis compañeros, pude comenzar a experimentar con el programa hasta tener mi parte lista.
 
-*Victor:*
+*Victor:* Ser artista de un juego te inspira bastante, ya que hay muchas ideas en mente que sabes que pueden quedar tan geniales, prácticamente de tí depende lo que más se observa al estar jugando entonces 
+tienes una gran responsabilidad de trabajo, cosa que realmente tuve un poco de fallas ya que no pude aprovechar eficientemente de mi tiempo para realizar el trabajo y mis habilidades físicas no eran las mejores. Sin embargo creo que se logró hacer lo que tenía en mente. 
